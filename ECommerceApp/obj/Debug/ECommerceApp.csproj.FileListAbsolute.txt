@@ -1,0 +1,7 @@
+C:\Users\barad\source\repos\ECommerceApp\ECommerceApp\bin\Debug\ECommerceApp.exe.config
+C:\Users\barad\source\repos\ECommerceApp\ECommerceApp\bin\Debug\ECommerceApp.exe
+C:\Users\barad\source\repos\ECommerceApp\ECommerceApp\bin\Debug\ECommerceApp.pdb
+C:\Users\barad\source\repos\ECommerceApp\ECommerceApp\obj\Debug\ECommerceApp.csproj.AssemblyReference.cache
+C:\Users\barad\source\repos\ECommerceApp\ECommerceApp\obj\Debug\ECommerceApp.csproj.CoreCompileInputs.cache
+C:\Users\barad\source\repos\ECommerceApp\ECommerceApp\obj\Debug\ECommerceApp.exe
+C:\Users\barad\source\repos\ECommerceApp\ECommerceApp\obj\Debug\ECommerceApp.pdb
